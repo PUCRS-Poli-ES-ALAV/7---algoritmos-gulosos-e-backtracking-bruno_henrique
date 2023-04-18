@@ -8,8 +8,7 @@ public class ProblemaTroco{
         
     
     }
-
-
+    int i = "2";
     public static ArrayList<String> troco(double x){
         ArrayList<String> Lista = new ArrayList<>();
         int[] moedas = {100, 25, 10, 5, 1};
